@@ -1,3 +1,32 @@
+# Airbnb Clone Web App
+
+This project is an Airbnb clone web application built with Next.js, Tailwind CSS, MongoDB, Prisma, and NextAuth.
+
+## Overview
+
+The application is a simplified version of Airbnb, allowing users to view and book available properties for rent. It supports user authentication, property listings, and booking functionalities.
+
+## Tech Stack
+
+- **Next.js**: A React framework for building server-rendered applications.
+- **Tailwind CSS**: A utility-first CSS framework for quickly building custom designs.
+- **MongoDB**: A NoSQL database for storing property and user data.
+- **Prisma**: A modern database toolkit used for database access, migrations, and data modeling.
+- **NextAuth**: An authentication library for Next.js applications, providing easy-to-use authentication features.
+
+## Features
+
+- **User Authentication**: Secure authentication powered by NextAuth for user sign-up, login, and sessions.
+- **Property Listings**: Display available properties, their details, and booking information.
+- **Booking System**: Allow users to book a property based on availability.
+
+## Installation
+
+1. Clone the repository:
+   ```bash
+   git clone <repo_url>
+   ```
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
